@@ -10,9 +10,9 @@
 <name>Indextank Thrift API</name>
 <dependencies>
 <dependency>
-  <groupId>org.apache.thrift</groupId>
+  <groupId>org.apache.cassandra.deps</groupId>
   <artifactId>libthrift</artifactId>
-  <version>0.8.0</version>
+  <version>0.5.0</version>
 </dependency>
 </dependencies>
 <distributionManagement>
