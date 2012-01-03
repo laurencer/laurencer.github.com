@@ -24,9 +24,9 @@
             <scope>compile</scope>
         </dependency>
         <dependency>
-            <groupId>org.apache.thrift</groupId>
+            <groupId>org.apache.cassandra.deps</groupId>
             <artifactId>libthrift</artifactId>
-            <version>0.8.0</version>
+            <version>0.5.0</version>
             <scope>compile</scope>
         </dependency>
         <dependency>
