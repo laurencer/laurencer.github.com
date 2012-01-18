@@ -5,7 +5,7 @@
     <artifactId>indextank-scala_2.9.1</artifactId>
     <packaging>jar</packaging>
     <description>indextank-scala</description>
-    <version>1.0</version>
+    <version>1.0-SNAPSHOT</version>
     <name>indextank-scala</name>
     <organization>
         <name>io.sidekick</name>
